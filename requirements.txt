@@ -1,0 +1,15 @@
+flask
+os
+yara
+scanner
+suspiciousWPDetector
+systemWatcher
+threading
+requests
+notify-py
+pywin32
+yara-python
+win32file
+win32con
+parseJson
+shutil
